@@ -1,0 +1,6 @@
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\bin\Debug\räknare.exe.config
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\bin\Debug\räknare.exe
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\bin\Debug\räknare.pdb
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\obj\Debug\räknare.csprojResolveAssemblyReference.cache
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\obj\Debug\räknare.exe
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\obj\Debug\räknare.pdb

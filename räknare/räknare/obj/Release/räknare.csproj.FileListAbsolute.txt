@@ -1,0 +1,5 @@
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\bin\Release\räknare.exe.config
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\bin\Release\räknare.exe
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\bin\Release\räknare.pdb
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\obj\Release\räknare.exe
+c:\users\viktor.brunzell\documents\visual studio 2017\Projects\räknare\räknare\obj\Release\räknare.pdb
