@@ -14,7 +14,7 @@ namespace räknare
             start:
             try
             {
-                Console.WriteLine("Ange ampere");
+                Console.WriteLine("Ange ampere"); //copyright isis 2017
                 float amp = float.Parse(Console.ReadLine());
                 Console.WriteLine("Ange volt");
                 float volt = float.Parse(Console.ReadLine());
